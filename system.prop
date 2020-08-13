@@ -63,3 +63,7 @@ persist.sys.wfd.virtual=0
 
 # WiFi
 wifi.interface=wlan0
+
+# Bluetooth
+persist.bt.enableAptXHD=true
+persist.service.btui.use_aptx=1
